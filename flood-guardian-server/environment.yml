@@ -1,0 +1,12 @@
+name: floodguardian
+dependencies:
+  - python=3.6.9   
+  - numpy
+  - flask
+  - scikit-learn=0.22.2.post1
+  - pandas
+  - requests
+  - ibm-watson>=5.1.0
+  - dotenv
+  - autopep8
+  - requests-cache
